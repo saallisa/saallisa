@@ -11,4 +11,4 @@ Hi, I'm Lisa! I mainly code in JavaScript, PHP and MySQL, but sometimes I use HT
 - 🌱 The WebGPU API and its WGSL shader language
 
 ## My projects:
-- :paw_prints: Illuvision, an open-source 3D rendering engine written in JavaScript using the WebGPU API
+- 🧊 Illuvision, an open-source 3D rendering engine written in JavaScript using the WebGPU API
